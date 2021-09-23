@@ -1,0 +1,16 @@
+PODS:
+  - DesignX (1.1.0)
+
+DEPENDENCIES:
+  - DesignX
+
+SPEC REPOS:
+  trunk:
+    - DesignX
+
+SPEC CHECKSUMS:
+  DesignX: 3c5564334580d76dde99dd9b2bb3245d5027b841
+
+PODFILE CHECKSUM: 7b86c067aa54cc896e7b68e4cd0b9b34b202385d
+
+COCOAPODS: 1.11.0
